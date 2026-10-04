@@ -48,7 +48,7 @@ class HomeScreen extends StatelessWidget {
                   ),
                 ),
                 Text(
-                  '103022300147 - Luthfi Rezkiansyah Ramadhani', // Ganti dengan NIM dan Nama Anda
+                  '103022300147 - Luthfi Rezkiansyah Ramadhani', 
                   style: TextStyle(
                     color: Colors.grey,
                     fontSize: 12,
